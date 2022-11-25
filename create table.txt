@@ -1,0 +1,1 @@
+create table countries(c_no int,c_name varchar(25) not null,c_president_name varchar(20)not null);
